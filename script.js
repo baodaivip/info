@@ -1,3 +1,4 @@
+
 $(document).ready(function(){
     $('#myCanvas').tagcanvas({
       textColour : '#fff',

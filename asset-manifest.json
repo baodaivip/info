@@ -1,20 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.fd8abdcc.css",
-    "main.js": "./static/js/main.6a183c01.js",
+    "main.css": "./static/css/main.b0a9bc4d.css",
+    "main.js": "./static/js/main.9ea660c2.js",
+    "static/media/Avatar.jpeg": "./static/media/Avatar.4ae3bf7ab51a78a43db5.jpeg",
+    "static/media/ladi7.png": "./static/media/ladi7.bb5b0e94235ca03f7f28.png",
     "static/media/VifaOtc.png": "./static/media/VifaOtc.516056d4d595dd79645d.png",
     "static/media/townhub.webp": "./static/media/townhub.baf45cf0c2eaeb4c013a.webp",
+    "static/media/ladi1.png": "./static/media/ladi1.dc4802d77c608bab2415.png",
+    "static/media/ladi5.png": "./static/media/ladi5.305161f2ecc4201acb7b.png",
     "static/media/citybook.webp": "./static/media/citybook.ad4382d7d1ed4f08b5d6.webp",
+    "static/media/ladi3.png": "./static/media/ladi3.ad56fcccd34d9b5e56cc.png",
     "static/media/easybook.webp": "./static/media/easybook.5e56147178c8233f838e.webp",
+    "static/media/ladi2.png": "./static/media/ladi2.b4331ab1fd77dca2498f.png",
+    "static/media/Valik.png": "./static/media/Valik.8c85b35db7063bad53f8.png",
+    "static/media/ladi4.png": "./static/media/ladi4.58ebc68e713b350386f7.png",
     "static/media/PXaas.webp": "./static/media/PXaas.02fe79e49141b25cc785.webp",
     "static/media/Archia.webp": "./static/media/Archia.d56356ea95395eef55c5.webp",
     "static/media/avatar.jpg": "./static/media/avatar.9bbc790b925bacdf6ce0.jpg",
     "index.html": "./index.html",
-    "main.fd8abdcc.css.map": "./static/css/main.fd8abdcc.css.map",
-    "main.6a183c01.js.map": "./static/js/main.6a183c01.js.map"
+    "main.b0a9bc4d.css.map": "./static/css/main.b0a9bc4d.css.map",
+    "main.9ea660c2.js.map": "./static/js/main.9ea660c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd8abdcc.css",
-    "static/js/main.6a183c01.js"
+    "static/css/main.b0a9bc4d.css",
+    "static/js/main.9ea660c2.js"
   ]
 }
