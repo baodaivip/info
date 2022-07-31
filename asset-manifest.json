@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.990aa13d.css",
-    "main.js": "./static/js/main.ce951bc4.js",
+    "main.js": "./static/js/main.cdee1a2e.js",
     "static/media/Avatar.jpeg": "./static/media/Avatar.4ae3bf7ab51a78a43db5.jpeg",
     "static/media/ladi7.png": "./static/media/ladi7.bb5b0e94235ca03f7f28.png",
     "static/media/VifaOtc.png": "./static/media/VifaOtc.516056d4d595dd79645d.png",
@@ -19,10 +19,10 @@
     "static/media/avatar.jpg": "./static/media/avatar.9bbc790b925bacdf6ce0.jpg",
     "index.html": "./index.html",
     "main.990aa13d.css.map": "./static/css/main.990aa13d.css.map",
-    "main.ce951bc4.js.map": "./static/js/main.ce951bc4.js.map"
+    "main.cdee1a2e.js.map": "./static/js/main.cdee1a2e.js.map"
   },
   "entrypoints": [
     "static/css/main.990aa13d.css",
-    "static/js/main.ce951bc4.js"
+    "static/js/main.cdee1a2e.js"
   ]
 }
